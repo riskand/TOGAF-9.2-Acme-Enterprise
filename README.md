@@ -3,5 +3,5 @@ Collaborative Sanbox Implementation TOGAF Standard
 
 as per TOGAF 9.2 Standard, these are all phases in the cycle
 
-Prelimary Phase<b>
+Prelimary Phase<br>
 Phase A: Architecture Vision
