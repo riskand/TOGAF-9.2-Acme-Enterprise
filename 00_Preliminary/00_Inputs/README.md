@@ -1,2 +1,2 @@
 ### Inputs:
-- [Acme Owner Business Vision](../../READNE.md)
+- [Acme Owner Business Vision](../../README.md)
