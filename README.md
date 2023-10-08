@@ -13,6 +13,3 @@ The owner of Acme Enterprise is also a visionary entrepreneur who believes that 
 </p>
 To bring this vision to life, John, the lead architect, has proactively initiated the development of an Enterprise Architecture. He has chosen to utilize the TOGAF 9.2 Standard as the framework for this collaborative effort.
 
-<h3>Preliminary Phase</h3>
-</br>
-<h3>Phase A: Architecture Vision</h3>
