@@ -1,7 +1,7 @@
 # TOGAF-9.2-Acme-Enterprise
 Collaborative Sanbox Implementation TOGAF Standard
 
-<h3>Background Story</h3>
+### Background Story
 Acme Enterprise is a startup company operating an online retail business. They sell products through online marketplace platforms that offer API integration. Their current customer base consists of buyers who purchase products on these marketplace platforms. Acme sources and sells products from multiple suppliers, relying on semi-real-time stock information.
 
 <p>
