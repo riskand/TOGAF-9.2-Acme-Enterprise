@@ -8,6 +8,7 @@ Acme Enterprise is a startup company operating an online retail business. They s
 As their business continues to grow, the owner aims to expand operations by creating a system that allows new suppliers to easily register. These suppliers should be able to add their products for sale, update stock levels and prices conveniently. Additionally, the system should facilitate the efficient management of product delivery directly from designated warehouses.
 
 </p>
+The owner of Acme Enterprise is also a visionary enterpreneur, in which she thinks it would be helpful for soceity if the system can accomodate new and existing online retailer grow their business buy expanding product they can sell. She think it is possible since the new Acme system will provide easy connection to new suppliers for them
 
 </p>
 as per TOGAF 9.2 Standard, these are all phases in the cycle
