@@ -12,5 +12,4 @@ As their business continues to grow, the owner aims to expand operations by crea
 The owner of Acme Enterprise is also a visionary entrepreneur who believes that it would be beneficial for society if the system can accommodate new and existing online retailers to start or expand their product offerings. She envisions that the new Acme system will provide an easy connection to new suppliers, fostering growth opportunities for all participants in the online retail ecosystem.
 
 <p>
-To bring this vision to life, John, the lead architect, has proactively initiated the development of an Enterprise Architecture. He has chosen to utilize the TOGAF 9.2 Standard as the framework for this collaborative effort. As he started the <b>Preliminary Phase</b> of TOGAF ADM, he welcome anyone who wants to join the collaboration, to make a proper an Enterprise Architecure.
-
+To bring this vision to life, John, the lead architect, has proactively initiated the development of an Enterprise Architecture. He has chosen to utilize the TOGAF 9.2 Standard as the framework for this collaborative effort. As he starts the <b>Preliminary Phase</b> of TOGAF ADM, he welcomes anyone who wants to join the collaboration to create a proper Enterprise Architecture
