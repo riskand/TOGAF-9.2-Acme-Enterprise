@@ -2,13 +2,12 @@
 Collaborative Sanbox Implementation TOGAF Standard
 
 <h3>Background Story</h3>
-Acme Enterprise is a start up company that run an online retail business. They sell product trough online marketplace platforms that provide API integration. Their current customers are buyers that buy product in marketplace platforms. 
+Acme Enterprise is a startup company operating an online retail business. They sell products through online marketplace platforms that offer API integration. Their current customer base consists of buyers who purchase products on these marketplace platforms. Acme sources and sells products from multiple suppliers, relying on semi-real-time stock information.
 
 </p>
-Acme sell product they buy from suppliers when a buyer place an order through marketplace. In other words, Acme doesn't have their own stock. Instead they have semi realtime stock information which they get from multiple suppliers.
+As their business continues to grow, the owner aims to expand operations by creating a system that allows new suppliers to easily register. These suppliers should be able to add their products for sale, update stock levels and prices conveniently. Additionally, the system should facilitate the efficient management of product delivery directly from designated warehouses.
 
 </p>
-As their business is growing, the owner wants to expand the business so Acme would have a system where new suppliers can register easily, then add product to sell, update stock and price and in some way easy to handle delivery from their premises.
 
 </p>
 as per TOGAF 9.2 Standard, these are all phases in the cycle
